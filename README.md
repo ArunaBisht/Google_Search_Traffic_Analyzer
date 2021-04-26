@@ -1,4 +1,7 @@
 # Google Search traffic analysis
+
+![](snapshots/intro_12.PNG)
+
 With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. Through this we are analyzing the company's financial and user data in clever ways to make the company grow. The objective is to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock
 
 ## Technologies
